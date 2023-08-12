@@ -12,13 +12,12 @@
 // aHello("Happy");
 // aHello("Nice");
 
-// for module2 
-import nisha, {hello, aHello} from './module2.js'
+// for module2
+// import nisha, {hello, aHello} from './module2.js'
 
-hello();
-aHello("DOM M2");
-aHello("Happy M2");
-aHello("Nice M2");
+// hello();
+// aHello("DOM M2");
+// aHello("Happy M2");
+// aHello("Nice M2");
 
-nisha();
-
+// nisha();
